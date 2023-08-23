@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "411347865609",
+    "project_id": "rhyno-f4427",
+    "storage_bucket": "rhyno-f4427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411347865609:android:031d5dee34940038a7a8d8",
+        "android_client_info": {
+          "package_name": "com.example.rhyno_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411347865609-fc32iqstsgstm4n58os4inlidkk607hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CQYDVZiEJb5607J33JmDeN0QkmLj0PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411347865609-fc32iqstsgstm4n58os4inlidkk607hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411347865609-fneredsf15inblve31e03leb8rmcn0b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rhynoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411347865609:android:b705231b8dda43dda7a8d8",
+        "android_client_info": {
+          "package_name": "com.example.rhyno_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411347865609-1rkfudnfb9249cvl7cg1l4ltui0kk67r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rhyno_app",
+            "certificate_hash": "4d5a6c461053531a97275f447f066d51313281ff"
+          }
+        },
+        {
+          "client_id": "411347865609-fc32iqstsgstm4n58os4inlidkk607hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CQYDVZiEJb5607J33JmDeN0QkmLj0PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411347865609-fc32iqstsgstm4n58os4inlidkk607hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411347865609-fneredsf15inblve31e03leb8rmcn0b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rhynoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
